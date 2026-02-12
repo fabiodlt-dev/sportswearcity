@@ -1,0 +1,19 @@
+@media screen and (min-width:200px) and (max-width:600px) {
+
+    .sign-up-sign-in-box {
+        text-align: center;
+    }
+
+    .sign-up-or-sign-in > a {
+        font-size:1.2em;
+        padding:20px;
+        letter-spacing:2px;
+    }
+
+
+    .row > input {
+        width:70%;  
+        margin:2px;
+    }
+
+}

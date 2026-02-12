@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/results/checkout.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/results" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/results/db-insert-success.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/results" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/results/item-added-to-cart.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/results" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/results/order.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp/WEB-INF/results" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/accessories.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/articles.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/articlesmlb.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/articlesnba.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/cart.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/checkout.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/hats.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/item.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/jerseys.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/jerseys/item.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp/jerseys" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/jerseys/jerseysnba.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp/jerseys" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/myaccount.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/registration.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/demo/src/main/webapp/tshirts.jsp" value="file://$PROJECT_DIR$/demo/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>

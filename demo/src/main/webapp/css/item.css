@@ -1,0 +1,113 @@
+body {
+    background-color: #021848;
+}
+
+#content-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+}
+
+.item-container {
+    display: flex;
+    flex-direction:row;
+    
+}
+
+.item-container > .item {
+    position:relative;
+    background-color: #021848;
+    padding:20px 40px;
+    font-size:1.3em;
+}
+
+
+.item-details {
+    padding:0 50px;
+}
+
+
+
+.item-details > .item-title {
+    font-size:2em;
+    text-shadow:2px 2px 25px rgba(255, 255, 255,0.35);
+    line-height:1.3;
+    letter-spacing:2.5px;
+}   
+
+.item-title,.item-price,.item-quantity,.item-size,.add-to-cart-button {
+    margin:0 0 40px 10px;
+}
+
+.item-details   .item-price , .item-size,.item-details   .item-quantity {
+    font-size:1.8em;
+    text-shadow:2px 2px 25px rgba(255, 255, 255,0.35);
+    letter-spacing:1.8px;
+}
+
+.item-details  .item-size,.item-details  .item-quantity {
+    font-style:normal;
+}
+
+.item-quantity > input[type="number"] {
+    font-size: 0.7em;
+    padding:3px;
+    border: 2px solid #31f8f8;
+    outline:none;
+    box-shadow: 10px 0 20px rgba(20, 180, 216, 0.4);
+    background-color: transparent;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+
+ .item-size  button {
+    font-size: 0.7em;
+    letter-spacing:1.2px;
+    background-color:transparent;
+    color:#FFFFFF;
+    border:3px solid #00FFD1;
+    border-radius:5px;
+    padding:5px;
+    box-shadow:3px 0 20px rgba(20, 180, 216,0.4);
+    margin:5px;
+    cursor: pointer;
+}
+
+.item-size  button:hover {
+    background-color:rgba(9, 43, 116, 0.7);
+}
+
+
+.add-to-cart-button  .add-to-cart-btn {
+    font-size:1.6em;
+    color:#FFFFFF;
+    background-color:rgb(2, 24, 72);
+    letter-spacing:2px;
+    border-radius:5px;
+    margin-top:20px;
+    border:2px solid #31f8f8;
+    box-shadow: 10px 0 20px rgba(20, 180, 216, 0.4);
+    transition:0.2s;
+    padding:15px 90px;
+    cursor:pointer;
+}
+
+.add-to-cart-button .add-to-cart-btn:hover {
+    background-color:rgba(8, 45, 125, 0.3);
+    box-shadow:10px 0 20px rgba(20, 180, 216, 0.6);
+}
+
+#response-message {
+    font-size:1.3em;
+    letter-spacing:1.4px;
+}
+
+.items-counter {
+    background-color:#1C4EFE;
+    border-radius: 100px;
+    padding:3px;
+    text-decoration:none;
+}

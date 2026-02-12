@@ -1,0 +1,41 @@
+
+select {
+    height:40px;
+    background-color:#021848;
+    border:2px solid #31f8f8;
+    box-shadow:10px 0 20px rgba(20, 180, 216,0.4);
+    outline:none;
+    color:#FFFFFF;
+    font-size:0.95em;
+    width:300px;
+    letter-spacing: 1.4px;
+}
+
+.sign-up-content {
+    display:flex;
+    flex-direction:row;
+}
+
+.sign-up-sign-in-box {
+    padding:20px 15px;
+}
+
+
+h2 {
+    text-align:center;
+    padding:10px 10px 20px 10px;
+    font-size:1.8em;
+    letter-spacing: 2px;
+}
+
+
+input[type="text"],label {
+    font-size:1.1em;
+}
+
+
+.cvv {
+    text-align:left;
+}
+
+

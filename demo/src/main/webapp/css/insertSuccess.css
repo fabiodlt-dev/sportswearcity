@@ -1,0 +1,19 @@
+body {
+    background-color: #021848;
+    color:#FFFFFF;
+    font-family: Inter,sans-serif;
+    text-align:center;
+}
+h1 {
+    letter-spacing:1.6px;
+}
+
+h2 {
+    font-weight:normal;
+}
+
+p {
+    font-size:1.3em;
+    letter-spacing: 1.7px;
+    line-height:1.4;
+}

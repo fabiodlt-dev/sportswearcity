@@ -1,0 +1,62 @@
+@media screen and (min-width:200px) and (max-width:500px) {
+    .content-container > .card > .shop-now-btn-container > .shop-now-btn {
+        font-size:1.7em;
+    }
+
+
+
+}
+
+@media screen and (min-width:500px) and (max-width:800px) {
+    .content-container > .card > .shop-now-btn-container > .shop-now-btn {
+        font-size:2.2em;
+    }
+} 
+
+@media screen and (min-width:800px) and (max-width:1200px) {
+    .content-container > .card > .shop-now-btn-container > .shop-now-btn {
+        font-size:2.5em;
+        padding: 20px 70px;
+    }
+}
+
+
+@media screen and (max-width:1200px) {
+    .content-container {
+        display:flex;
+        flex-direction:column;
+        align-items: center;
+    }
+    .content-container > .card {
+        width:100%;
+        margin-bottom:15px;
+        float:none; 
+    }
+
+    .content-container > .card > img {
+        object-position:50% 50%;
+    }
+     
+}
+
+@media screen and (max-width:992px) {    
+    .navbar-container {
+        background-image:linear-gradient(to right,#021848, #021848, rgb(135, 6, 45), #87062D);
+    }
+
+    .navbar-list-item {
+        display:none;
+    }
+    
+    .navbar-icons-list > .hamburger-menu {
+        display:block;
+        margin-left:0;
+        margin-right:0;
+    }
+
+    .clearfix {
+        overflow:auto;
+    }
+
+}
+
